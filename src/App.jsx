@@ -25,6 +25,7 @@ const App = () => {
           <Header/>
         </div>
         <div>
+          <h1>Owen is Gay</h1>
           <Form
             input={input}
             setInput={setInput}
